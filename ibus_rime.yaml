@@ -1,0 +1,5 @@
+# Rime 用戶配置
+# ibus 中州韵
+
+style:
+  horizontal: true # 候選橫排

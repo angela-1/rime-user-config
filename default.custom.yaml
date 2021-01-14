@@ -1,0 +1,7 @@
+# Rime 用戶配置
+# 跨平台
+
+patch:
+  schema_list:
+    - schema: wubi86 # 添加五笔86
+    - schema: luna_pinyin
